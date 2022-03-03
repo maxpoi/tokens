@@ -1,9 +1,0 @@
-{
-  "textinput": {
-    "#active": {
-      "background": "@theme-background-primary-active",
-      "text": "@theme-text-primary-normal",
-      "border": "@theme-outline-input-active"
-    }
-  }
-}
