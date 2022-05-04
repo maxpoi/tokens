@@ -1,0 +1,65 @@
+{
+  "globalHeader": {
+    "comment": "Applied to modal and menu list backgrounds",
+    "figma": "https://www.figma.com/file/NaNrfXjygZtRgMfHAFHjsp/Components---Windows%2BWeb?node-id=5282%3A497",
+    "textfield": {
+      "#hovered": {
+        "text": "@theme-text-inverted-normal"
+      }
+    },
+    "buttonDevice": {
+      "#hovered": {
+        "text-inactive": "@theme-text-inverted-normal",
+        "text-active": "@theme-text-inverted-normal"
+      },
+      "#pressed": {
+        "text-inactive": "@theme-text-inverted-normal",
+        "text-active": "@theme-text-inverted-normal"
+      }
+    },
+    "buttonIcon": {
+      "#hovered": {
+        "icon": "@theme-text-inverted-normal"
+      },
+      "#pressed": {
+        "icon": "@theme-text-inverted-normal"
+      }
+    },
+    "buttonStatus": {
+      "#hovered": {
+        "text": "@theme-text-inverted-normal"
+      },
+      "#pressed": {
+        "text": "@theme-text-inverted-normal"
+      }
+    },
+    "modifierChip": {
+      "background": "@theme-background-primary-active",
+      "text": "@theme-text-inverted-normal"
+    },
+    "maxMinButton": {
+      "#hovered": {
+        "text": "@theme-text-inverted-normal"
+      },
+      "#pressed": {
+        "text": "@theme-text-inverted-normal"
+      }
+    },
+    "closeButton": {
+      "#hovered": {
+        "text": "@theme-text-primary-normal"
+      },
+      "#pressed": {
+        "text": "@theme-text-primary-normal"
+      }
+    },
+    "searchCancelButton": {
+      "#hovered": {
+        "text": "@theme-text-inverted-normal"
+      },
+      "#pressed": {
+        "text": "@theme-text-inverted-normal"
+      }
+    }
+  }
+}
